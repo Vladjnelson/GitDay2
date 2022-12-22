@@ -7,3 +7,7 @@ public class HomePage {
 
 //more
 //logo
+
+// add more
+
+//footer
